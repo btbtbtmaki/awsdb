@@ -1,0 +1,4 @@
+#!/bin/sh
+# Do not change this file. It will be overwritten
+# when the tests are run.
+echo "This file is a placeholder for the test execution script"
